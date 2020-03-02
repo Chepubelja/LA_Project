@@ -1,0 +1,13 @@
+PATH_TO_BSD_68 = 'data/BSD68'
+PATH_TO_BSD_68_RESULTS = 'results/BSD68'
+
+PATH_TO_BSD_100 = 'data/BSD100'
+PATH_TO_BSD_100_RESULTS = 'results/BSD100'
+
+PATH_TO_URBAN_100 = 'data/URBAN100'
+PATH_TO_URBAN_100_RESULTS = 'results/URBAN100'
+
+# SIGMAS = [5, 15, 25, 35, 50]
+SIGMAS = [50]
+
+METHODS = ['VisuShrink', 'BayesShrink', 'SureShrink']
